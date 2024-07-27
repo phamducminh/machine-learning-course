@@ -1,0 +1,2 @@
+NOTE: These exercises are deprecated, and are no longer being maintained.
+We recommend you use the [latest exercises using tf.keras](https://github.com/google/eng-edu/tree/master/ml/cc/exercises) instead.
